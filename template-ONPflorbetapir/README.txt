@@ -51,7 +51,7 @@ Funding
 -------
 - National Institutes of Health (NIH), Grant U01AG024904
 - U.S. Department of Defense, Grant W81XWH-12-2-0012
-- National Science Foundation (NSI), Grant 2112455
+- National Science Foundation (NSF), Grant 2112455
 - National Institutes of Health (NIH), Grant RF1AG063153
 - Vetenskapsrådet, Grant 2020-06356
 - National Institute on Aging (NIA), Intramural Research Program Grant
